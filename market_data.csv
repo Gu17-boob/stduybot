@@ -1,0 +1,13 @@
+﻿date,crop,market,min_price,max_price,price
+2026-09-01,Tomato,Guntur,1800,2500,2200
+2026-09-02,Tomato,Guntur,1900,2600,2300
+2026-09-03,Tomato,Guntur,2000,2700,2400
+2026-09-01,Tomato,Vijayawada,1700,2400,2100
+2026-09-02,Tomato,Vijayawada,1800,2500,2200
+2026-09-03,Tomato,Vijayawada,1900,2600,2300
+2026-09-01,Rice,Guntur,2800,3400,3100
+2026-09-02,Rice,Guntur,2900,3500,3200
+2026-09-03,Rice,Guntur,3000,3600,3300
+2026-09-01,Chilli,Guntur,9000,11000,10000
+2026-09-02,Chilli,Guntur,9200,11200,10200
+2026-09-03,Chilli,Guntur,9500,11500,10500

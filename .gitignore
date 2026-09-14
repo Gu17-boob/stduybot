@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.vscode/
+market_data_old.csv
+app_backup.py
